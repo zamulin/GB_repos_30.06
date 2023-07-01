@@ -36,14 +36,10 @@
 
 Это поможет держать вашу ветки в чистоте и порядке. Тем самым, вы будете видеть историю изменений по каждому нововведению в вашем проекте, а не по каждому файлу.
 
-   # Cправка по всем командам
+   # Cправка по всем commands
 - git help 
 - git clone
 - git status
 - git branch
 - git checkout
-- git merge
-- git remote
-- git fetch
-- git push
-- git pull
+
