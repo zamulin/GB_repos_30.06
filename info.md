@@ -28,3 +28,5 @@ _**Как сделать pull request**_
 ● На сайте GitHub нажимаем кнопку pull request
 
 
+Отправляем
+
